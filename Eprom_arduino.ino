@@ -7,7 +7,7 @@ OE = Pin 11
 VCC = 5V
 VSS = GND
 Tested on 27C256-15
-note: some EPROMs may have a different power supply!!!
+note: some EPROMs may have a different voltage!!!
 */
 const int CE = 10;
 const int OE = 11;
