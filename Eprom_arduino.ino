@@ -1,7 +1,7 @@
 /*
 Vpp = 5V
 A0 - A14 =	Pin 22-36
-D0-D7 = Pin 37-44
+Q0-Q7 = Pin 37-44
 CE = Pin 10
 OE = Pin 11
 VCC = 5V
