@@ -1,3 +1,14 @@
+/*
+Vpp = 5V
+A0 - A14 =	Pin 22-36
+D0-D7 = Pin 37-44
+CE = Pin 10
+OE = Pin 11
+VCC = 5V
+VSS = GND
+Tested on 27C256-15
+note: some EPROMs may have a different power supply!!!
+*/
 const int CE = 10;
 const int OE = 11;
 const int addrPins[] = {22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36};
