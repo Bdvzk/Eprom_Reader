@@ -1,3 +1,3 @@
 # Eprom_Reader
-Eprom Reader Arduino Due
+Eprom Reader
 Tested on Arduino Due with 27C256-15
